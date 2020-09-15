@@ -1,6 +1,9 @@
 ### Hi there, I'm Luca - [website] 👋
 
-> I'm a passionate and versatile software craftsman With more than 25 years of experience who really enjoy crafting command line tools (for automation and devops tasks) on unix-like systems using Go & C-like languages and cross-platform desktop applications.
+I'm a passionate and versatile software craftsman With more than 25 years of experience who really enjoy crafting using Go & C-like languages 
+
+- command line tools (for automation and devops tasks) on unix-like systems  
+- cross-platform desktop applications
 
 
 ### Connect with me:
