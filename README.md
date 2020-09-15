@@ -1,12 +1,12 @@
 ### Hi there, I'm Luca - [website] 👋
 
-I'm a passionate and versatile software craftsman With more than 25 years of experience who really enjoy crafting using Go & C-like languages 
+I'm a passionate and versatile software craftsman with more than 25 years of experience who really enjoy crafting using Go & C-like languages: 
 
 - command line tools (for automation and devops tasks) on unix-like systems  
 - cross-platform desktop applications
 
 
-### Connect with me:
+#### connect with me
 
 [<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/open-iconic@1.1.1/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
