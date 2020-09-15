@@ -19,6 +19,11 @@ Design the best fit solution with creative approach while using appropriate desi
 
 Evaluate software and products against business requirements in order to design robust solutions fitting into corporate standards and strategy.
 
+---
+
+<img align="left" alt="lucasepe's Github Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasepe&layout=compact" />
+
+
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/open-iconic@1.1.1/svg/globe.svg" />][website]
@@ -28,9 +33,6 @@ Evaluate software and products against business requirements in order to design 
 ---
 
 <img align="left" alt="lucasepe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasepe&show_icons=true&hide_border=true&hide=contribs,prs" />
-
-
-<img align="left" alt="lucasepe's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasepe&layout=compact" />
 
 
 
