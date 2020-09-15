@@ -29,7 +29,6 @@ Evaluate software and products against business requirements in order to design 
 
 <img align="left" alt="lucasepe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasepe&show_icons=true&hide_border=true&hide=contribs,prs" />
 
----
 
 <img align="left" alt="lucasepe's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasepe&layout=compact" />
 
