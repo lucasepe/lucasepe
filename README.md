@@ -31,7 +31,7 @@ Evaluate software and products against business requirements in order to design 
 [linkedin]: https://www.linkedin.com/in/lucasepe/
 [twitter]: https://twitter.com/lucasepe
 
-<br/>
+<br/><br/>
 
 <img align="left" alt="lucasepe's Github Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasepe&layout=compact" />
 
