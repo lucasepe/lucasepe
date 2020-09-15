@@ -27,6 +27,10 @@ Evaluate software and products against business requirements in order to design 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[website]: https://lucasepe.it
+[linkedin]: https://www.linkedin.com/in/lucasepe/
+[twitter]: https://twitter.com/lucasepe
+
 <br/>
 
 <img align="left" alt="lucasepe's Github Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasepe&layout=compact" />
@@ -36,6 +40,4 @@ Evaluate software and products against business requirements in order to design 
 
 
 
-[website]: https://lucasepe.it
-[linkedin]: https://www.linkedin.com/in/lucasepe/
-[twitter]: https://twitter.com/lucasepe
+
