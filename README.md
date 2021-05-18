@@ -1,10 +1,14 @@
 ### Hi there, I'm Luca - [website] 👋
 
-I'm a passionate and versatile software craftsman with more than 25 years of experience who really enjoy crafting using Go & C-like languages: 
+**Go** 👈 🥰 / **C** / ~~Java 🤫 (finally got rid of it)~~
 
-- command line tools (for automation and devops tasks) on unix-like systems  
-- cross-platform desktop applications
+20+ years as IT professional: 
 
+- R&D, likes event driven and functional programming
+- Cross-platform CLI tools and desktop GUI apps  
+- from C64 interrupts to Kubernetes controllers (again...still learning!)
+
+Love philosophy, physics and geometry as much as Go.
 
 #### connect with me
 
