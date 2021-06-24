@@ -4,6 +4,7 @@
   - 🤔 I’m looking for help with 
   - 💬 Ask me about ...
   - ⚡ Fun facts ...
+  - 🌱 I’m currently learning ...
   - ✨
 -->
 
@@ -18,13 +19,9 @@
 
 <br/>
 
-- 🌱 I’m currently learning:
-  - [The Fyne toolkit](https://fyne.io/)
-
-<br/>
-
 - ✨ What I really enjoy crafting?
   - command line tools (for automation and devops tasks)
+  - markdown slides about Go stuffs
   - cross-platform desktop applications
 
 📫 How to reach me:
