@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/lucasepe/)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA)](https://github.com/sponsors/lucasepe)
 
-<br/><br/>
+<br/>
 
 <!--
 <img align="left" alt="lucasepe's Github Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasepe&layout=compact"/>
@@ -38,4 +38,6 @@
 
 <img align="left" alt="lucasepe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasepe&show_icons=true&hide_border=true&hide=contribs,prs"/>
 
-![Metrics](https://github.com/lucasepe/lucasepe/blob/master/github-metrics.svg)
+<br/>
+
+![Metrics](./github-metrics.svg)

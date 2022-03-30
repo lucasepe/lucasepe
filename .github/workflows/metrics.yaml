@@ -18,11 +18,11 @@ jobs:
           # Options
           user: lucasepe
           template: classic
-          base: repositories
+          base: ""
           config_timezone: Europe/Italy
           # plugin_introduction: yes
           plugin_lines: yes
-          plugin_repositories: yes
+          #plugin_repositories: yes
           #plugin_repositories_featured: lucasepe/using-client-go, lucasepe/yamldo, lucasepe/yaml2dot, lucasepe/crumbs
           plugin_traffic: yes
           #plugin_traffic_skipped: Skipped repositories
