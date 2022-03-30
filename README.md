@@ -37,3 +37,5 @@
 -->
 
 <img align="left" alt="lucasepe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasepe&show_icons=true&hide_border=true&hide=contribs,prs"/>
+
+![Metrics](https://github.com/lucasepe/lucasepe/blob/master/github-metrics.svg)
