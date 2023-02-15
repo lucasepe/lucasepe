@@ -27,4 +27,8 @@ jobs:
           plugin_traffic: yes
           #plugin_traffic_skipped: Skipped repositories
           plugin_stargazers: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
 
