@@ -26,7 +26,7 @@ jobs:
           #plugin_repositories_featured: lucasepe/using-client-go, lucasepe/yamldo, lucasepe/yaml2dot, lucasepe/crumbs
           plugin_traffic: yes
           #plugin_traffic_skipped: Skipped repositories
-          plugin_stargazers: yes
+          #plugin_stargazers: yes
           #plugin_achievements: yes
           #plugin_achievements_only: >-
           #  polyglot, stargazer, deployer, member, maintainer, developer,
