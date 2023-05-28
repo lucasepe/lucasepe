@@ -22,10 +22,10 @@
   - command line tools
   - cross-platform desktop applications
 
-<br/>
-
-- ✨ What I'd like to work on (but in this field I'll be a _junior_)?
+- 🦄 I'd like to work on embedded systems (in this field I'll be a _junior_ ... but eager to learn!)
   - crafting software for embedded systems in C and ideally using Zig
+
+<br/>
 
 📫 How to reach me:
 
