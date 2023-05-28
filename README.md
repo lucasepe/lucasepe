@@ -19,9 +19,13 @@
 <br/>
 
 - ✨ What I really enjoy crafting?
-  - command line tools (for automation and kubernetes stuffs)
-  - markdown slides about Go topics
+  - command line tools
   - cross-platform desktop applications
+
+<br/>
+
+- ✨ What I'd like to work on (but in this field I'll be a _junior_)?
+  - crafting software for embedded systems in C and ideally using Zig
 
 📫 How to reach me:
 
