@@ -8,9 +8,9 @@
   - ✨
 -->
 
-### Hi there 👋, I'm [Luca](https://lucasepe.it)
+### Hi there 👋, I'm Luca
 
-> A software craftsman who likes (a lot) [Go](https://golang.org/).
+> A software craftsman who likes [Go](https://golang.org/), C, and is learning [Zig](https://ziglang.org/) .
 
 - 🔭 I’m currently working on:
   - on [Krateo PlatformOps](https://github.com/krateoplatformops)
