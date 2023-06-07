@@ -18,15 +18,6 @@
 
 <br/>
 
-- ✨ What I really enjoy crafting?
-  - command line tools
-  - cross-platform desktop applications
-
-- 🦄 I'd like to work on embedded systems (in this field I'll be a _junior_ ... but eager to learn!)
-  - crafting software for embedded systems in C and ideally using Zig
-
-<br/>
-
 📫 How to reach me:
 
 [![GitHub](https://img.shields.io/github/followers/lucasepe.svg?label=GitHub&style=social)](https://github.com/lucasepe)
