@@ -14,7 +14,6 @@
 
 - 🔭 I’m currently working on:
   - on [Krateo PlatformOps](https://github.com/krateoplatformops)
-  - on ["Using client-go" notebook](https://leanpub.com/using-client-go)
 
 <br/>
 
