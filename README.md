@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Luca
-
-[![GithHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github)](https://github.com/lucasepe/) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/lucasepe/)
+# 👋 Hi there, I'm `luca`
 
 I'm a pragmatic toolsmith who enjoys crafting command-line tools 
 and hacking on ideas that make life easier for developers and everyday users.
@@ -14,5 +12,14 @@ and hacking on ideas that make life easier for developers and everyday users.
 - Prefer terminal over GUI, and **plain text over magic**
 - Passionate about Go, shell, and developer experience
 
+## 👍 Support
 
-Thanks for stopping by and keep building great things! 🚀
+All tools are completely free to use, with every feature fully unlocked and accessible.
+
+If you find one or more of these tool helpful, please consider supporting its development with a donation.
+
+Your contribution, no matter the amount, helps cover the time and effort dedicated to creating and maintaining these tools, ensuring they remain free and receive continuous improvements.
+
+Thank you for your generosity and for being part of this journey!
+
+[![Donate with PayPal](https://img.shields.io/badge/💸-Tip%20me%20on%20PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FV575PVWGXZBY&source=url)
