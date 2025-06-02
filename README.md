@@ -14,6 +14,5 @@ and hacking on ideas that make life easier for developers and everyday users.
 - Prefer terminal over GUI, and **plain text over magic**
 - Passionate about Go, shell, and developer experience
 
----
 
 Thanks for stopping by and keep building great things! 🚀
