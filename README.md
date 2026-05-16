@@ -1,27 +1,39 @@
-# 👋 Hi there, I'm `luca`
+# Luca Sepe
 
-I'm a pragmatic toolsmith who enjoys crafting command-line tools 
-and hacking on ideas that make life easier for developers and everyday users.
+Software craftsman with 25+ years of experience building simple, reliable systems.
 
-> I believe in simplicity, composability, and doing less but better.
+I work mostly with Go, Kubernetes ecosystems, platform engineering, CLI tools, infrastructure automation and developer tooling.
 
-## 🔍 Interests & Principles
+I like software that is clear, boring in the right places, easy to operate and useful in real life.
 
-- Build tools that **do one thing well**
-- Automate the tedious, **expose the essential**
-- Prefer terminal over GUI, and **plain text over magic**
-- Passionate about Go, shell, and developer experience
+> Less code. Fewer assumptions.
 
-## 👍 Support
+## What I work on
 
-All tools are completely free to use, with every feature fully unlocked and accessible.
+- Go / Golang
+- Kubernetes operators and controllers
+- Platform engineering
+- Infrastructure tooling
+- CLI tools
+- Developer experience
+- Distributed systems
+- Automation
 
-If you find one or more of these tool helpful, please consider supporting its development with a donation.
+## Selected work
 
-&nbsp;&nbsp;&nbsp;[![Donate with PayPal](https://img.shields.io/badge/💸-Tip%20me%20on%20PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FV575PVWGXZBY&source=url)
+- Kubernetes operator frameworks
+- CRD generation tooling
+- Dynamic client / unstructured controller runtimes
+- Kubernetes event ingestion systems
+- CLI tools for developers and operators
 
+## Principles
 
-> Your contribution, no matter the amount, helps cover the time and effort dedicated to creating 
-> and maintaining these tools, ensuring they remain free and receive continuous improvements.
+- Clarity over cleverness
+- Pragmatism over trends
+- Working software over everything else
+- Complexity is optional
 
-Thank you for your generosity and for being part of this journey!
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/lucasepe
