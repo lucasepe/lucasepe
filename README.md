@@ -1,31 +1,11 @@
 # Luca Sepe
 
-Software craftsman with 25+ years of experience building simple, reliable systems.
+I work at the intersection of Go, Kubernetes platform engineering, API machinery, and infrastructure automation.
 
-I work mostly with Go, Kubernetes ecosystems, platform engineering, CLI tools, infrastructure automation and developer tooling.
+I like turning complex cloud-native systems into software that is easier to understand, operate, and evolve.
+Most of my recent work has been around Kubernetes controllers, CRDs, client-go, controller-runtime, internal developer platforms, and platform tooling.
 
-I like software that is clear, boring in the right places, easy to operate and useful in real life.
-
-> Less code. Fewer assumptions.
-
-## What I work on
-
-- Go / Golang
-- Kubernetes operators and controllers
-- Platform engineering
-- Infrastructure tooling
-- CLI tools
-- Developer experience
-- Distributed systems
-- Automation
-
-## Selected work
-
-- Kubernetes operator frameworks
-- CRD generation tooling
-- Dynamic client / unstructured controller runtimes
-- Kubernetes event ingestion systems
-- CLI tools for developers and operators
+I also write practical technical material on [Kubernetes controllers](https://leanpub.com/the-kubernetes-platform-engineer-interview-guide), [Go services on Kubernetes](https://leanpub.com/go-apps-on-kubernetes), [SRE workflows](https://leanpub.com/jq-kubectl-sre-ai), [AI platform engineering](https://leanpub.com/the-senior-go-engineer-interview-guide-ai-platform-engineering), and [operational context for humans, tools, and AI agents](https://leanpub.com/kubernetes-context-engineering).
 
 ## Principles
 
