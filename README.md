@@ -1,10 +1,10 @@
 # Luca Sepe
 
-I help CTOs and platform teams design, build, and hand over Kubernetes-based platforms that can be understood, operated, and evolved by the teams that own them.
+I help CTOs and platform teams [design, build, and hand over][brochure] Kubernetes-based platforms that can be understood, operated, and evolved by the teams that own them.
 
 My work sits at the intersection of Go, Kubernetes API machinery, control-plane design, platform engineering, infrastructure automation, and distributed systems.
 
-I am most useful when a team is not only deploying workloads to Kubernetes, but building a product, platform, or control plane on top of it. That is where API shape, controller behavior, ownership boundaries, and automation design become long-term architecture.
+I am most useful when a team is not only deploying workloads to Kubernetes, but [building a product, platform, or control plane][brochure] on top of it. That is where API shape, controller behavior, ownership boundaries, and automation design become long-term architecture.
 
 I work through focused architecture discovery, hands-on implementation, design review, documentation and structured handover.
 
@@ -27,3 +27,5 @@ Available for selected consulting, fractional, contract, and staff-level engagem
 The best first conversation starts from the engineering problem:
 
 > _what you are building, why it is difficult now, what decisions are hard to reverse, and what the internal team needs to own after the work is done_.
+
+[brochure]: ./building-platforms.pdf
