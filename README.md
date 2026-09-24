@@ -1,31 +1,17 @@
 # Luca Sepe
 
-I help CTOs and platform teams [design, build, and hand over][brochure] Kubernetes-based platforms that can be understood, operated, and evolved by the teams that own them.
+I help engineering teams make new and existing software systems easier to understand, change, and verify when people and AI coding agents work on them together.
 
-My work sits at the intersection of Go, Kubernetes API machinery, control-plane design, platform engineering, infrastructure automation, and distributed systems.
+The bottleneck is rarely code generation. It is knowing which requirements are authoritative, which architecture constraints must survive, what an agent may decide, and what evidence is required before a change can be trusted.
 
-I am most useful when a team is not only deploying workloads to Kubernetes, but [building a product, platform, or control plane][brochure] on top of it. That is where API shape, controller behavior, ownership boundaries, and automation design become long-term architecture.
+For new systems, I help turn product intent into explicit requirements, architecture decisions, bounded tasks, and verification.
 
-I work through focused architecture discovery, hands-on implementation, design review, documentation and structured handover.
+For legacy systems, I work in the other direction. I recover trustworthy context from code, tests, configuration, documents, and the people who operate the system. The goal is not to document everything. It is to make one real change safer and leave useful context behind.
 
-The objective is not to create consultant dependency. The objective is to leave behind clearer technical decisions, production-oriented software, explicit ownership boundaries, useful documentation, and a team able to continue without me.
+My established technical background is in Go, Kubernetes API machinery, controllers, control-plane software, distributed systems, and developer tooling. I stay close to implementation because architecture should survive code, operations, and handover.
 
-Typical problems I help with:
+I am the author of [practical technical books](https://leanpub.com/u/lucasepe) on client-go, production Go on Kubernetes, SRE workflows, platform engineering, and context for humans and AI tools. I am currently developing [Context Driven Development](https://leanpub.com/context-driven-development), a method for organizing authoritative context and verification around AI coding agents.
 
-- Kubernetes APIs, CRDs, and resource lifecycle design
-- controllers, reconciliation behavior, and failure handling
-- custom API servers and control-plane components
-- Go infrastructure software and automation tooling
-- platform architecture that must remain connected to code
-- review and simplification of existing platform codebases
-- documentation and handover for internal teams
+I work through focused reviews, legacy context recovery, bounded delivery pilots, critical implementation, and fractional staff-level support.
 
-[I also write practical technical material on Kubernetes controllers, client-go, Go services on Kubernetes, SRE workflows, AI platform engineering, and operational context for humans, tools, and AI agents](https://leanpub.com/u/lucasepe).
-
-Available for selected consulting, fractional, contract, and staff-level engagements.
-
-The best first conversation starts from the engineering problem:
-
-> _what you are building, why it is difficult now, what decisions are hard to reverse, and what the internal team needs to own after the work is done_.
-
-[brochure]: ./building-platforms.pdf
+Based in Italy. Remote first.
