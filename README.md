@@ -14,3 +14,9 @@ actions, and a structured handover.
 Not available for full-time embedded consulting or open ended staff augmentation.
 
 Based in Italy. Remote first.
+
+## Professional profile
+
+- [Platform Architecture Reviews](https://lucasepe.github.io/lucasepe/)
+- [One-page service brochure](professional-profile.pdf)
+

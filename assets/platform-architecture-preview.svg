@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="627" viewBox="0 0 1200 627">
+  <defs>
+    <linearGradient id="overlay" x1="0" x2="1">
+      <stop offset="0" stop-color="#07192e" stop-opacity=".99"/>
+      <stop offset=".57" stop-color="#07192e" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#07192e" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+  <image href="platform-architecture-background.png" width="1200" height="627" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1200" height="627" fill="url(#overlay)"/>
+  <rect x="76" y="74" width="58" height="5" rx="2.5" fill="#2ab7ad"/>
+  <text x="76" y="125" fill="#69d5cc" font-family="Arial" font-size="21" font-weight="700" letter-spacing="3">INDEPENDENT ARCHITECTURE REVIEW</text>
+  <text x="76" y="236" fill="#ffffff" font-family="Georgia" font-size="69" font-weight="700">Platform Architecture</text>
+  <text x="76" y="315" fill="#ffffff" font-family="Georgia" font-size="69" font-weight="700">Reviews</text>
+  <text x="76" y="387" fill="#d7e2ec" font-family="Georgia" font-size="29">Kubernetes APIs, controllers, control planes,</text>
+  <text x="76" y="427" fill="#d7e2ec" font-family="Georgia" font-size="29">and Go infrastructure.</text>
+  <line x1="76" y1="494" x2="650" y2="494" stroke="#6f879c" stroke-opacity=".55"/>
+  <text x="76" y="548" fill="#ffffff" font-family="Georgia" font-size="27" font-weight="700">Luca Sepe</text>
+  <text x="221" y="548" fill="#a9bdce" font-family="Arial" font-size="19">Fixed scope · Primarily asynchronous</text>
+</svg>
